@@ -1,0 +1,23 @@
+:root {
+    font-size: 62.5%;
+  }
+  
+
+.main h3 {
+    color: #c92071;
+    text-align: center; 
+    margin-Top: 20px;
+    font-size: 2rem;
+}
+
+.main h1 {
+    font-size: 5rem;
+    text-align: center;
+    margin: 2rem;
+}
+
+.main p {
+    text-align: center;
+    font-size: 2rem;
+
+}

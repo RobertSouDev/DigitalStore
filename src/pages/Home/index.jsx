@@ -1,12 +1,13 @@
 import Header from "../../layouts/Header";
+import Main from "../../layouts/Main";
 
 function index() {
     return (  
     <>  
         <Header/>
-        <h1>
-            home
-        </h1>
+        <Main/>
+
+        
     </>
     );
 }
